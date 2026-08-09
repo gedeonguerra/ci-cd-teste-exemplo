@@ -1,7 +1,4 @@
 # ci-cd-teste-exemplo
-Projeto simples para aulas de CI-CD
-
-# ci-cd-teste-exemplo
 
 > Projeto de estudo/exercício de curso — mantido como registro de aprendizado.
 
